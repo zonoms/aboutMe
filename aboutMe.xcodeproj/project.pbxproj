@@ -9,12 +9,12 @@
 /* Begin PBXBuildFile section */
 		84D4F34C24883E800074070E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84D4F34B24883E800074070E /* Assets.xcassets */; };
 		84D4F34F24883E800074070E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84D4F34D24883E800074070E /* LaunchScreen.storyboard */; };
-		84DDDE1B24884E4A0055B1C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DDDE1A24884E4A0055B1C1 /* AppDelegate.swift */; };
-		84DDDE2224884E820055B1C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84DDDE1C24884E820055B1C1 /* Main.storyboard */; };
-		84DDDE2324884E820055B1C1 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DDDE1E24884E820055B1C1 /* User.swift */; };
-		84DDDE2424884E820055B1C1 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DDDE1F24884E820055B1C1 /* WelcomeViewController.swift */; };
-		84DDDE2524884E820055B1C1 /* AboutMeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DDDE2024884E820055B1C1 /* AboutMeViewController.swift */; };
-		84DDDE2624884E820055B1C1 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DDDE2124884E820055B1C1 /* LoginViewController.swift */; };
+		84DDDE2F2488504C0055B1C1 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DDDE292488504C0055B1C1 /* LoginViewController.swift */; };
+		84DDDE302488504C0055B1C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DDDE2A2488504C0055B1C1 /* AppDelegate.swift */; };
+		84DDDE312488504C0055B1C1 /* AboutMeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DDDE2B2488504C0055B1C1 /* AboutMeViewController.swift */; };
+		84DDDE322488504C0055B1C1 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DDDE2C2488504C0055B1C1 /* User.swift */; };
+		84DDDE332488504C0055B1C1 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84DDDE2D2488504C0055B1C1 /* WelcomeViewController.swift */; };
+		84DDDE342488504C0055B1C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84DDDE2E2488504C0055B1C1 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,12 +22,12 @@
 		84D4F34B24883E800074070E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84D4F34E24883E800074070E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84D4F35024883E800074070E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		84DDDE1A24884E4A0055B1C1 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "../../../../Downloads/2.14/Lesson 5/LoginApp/LoginApp/AppDelegate.swift"; sourceTree = "<group>"; };
-		84DDDE1D24884E820055B1C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = "../../../../Downloads/2.14/Lesson 5/LoginApp/LoginApp/Base.lproj/Main.storyboard"; sourceTree = "<group>"; };
-		84DDDE1E24884E820055B1C1 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = User.swift; path = "../../../../Downloads/2.14/Lesson 5/LoginApp/LoginApp/User.swift"; sourceTree = "<group>"; };
-		84DDDE1F24884E820055B1C1 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WelcomeViewController.swift; path = "../../../../Downloads/2.14/Lesson 5/LoginApp/LoginApp/WelcomeViewController.swift"; sourceTree = "<group>"; };
-		84DDDE2024884E820055B1C1 /* AboutMeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AboutMeViewController.swift; path = "../../../../Downloads/2.14/Lesson 5/LoginApp/LoginApp/AboutMeViewController.swift"; sourceTree = "<group>"; };
-		84DDDE2124884E820055B1C1 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LoginViewController.swift; path = "../../../../Downloads/2.14/Lesson 5/LoginApp/LoginApp/LoginViewController.swift"; sourceTree = "<group>"; };
+		84DDDE292488504C0055B1C1 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		84DDDE2A2488504C0055B1C1 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		84DDDE2B2488504C0055B1C1 /* AboutMeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutMeViewController.swift; sourceTree = "<group>"; };
+		84DDDE2C2488504C0055B1C1 /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		84DDDE2D2488504C0055B1C1 /* WelcomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
+		84DDDE2E2488504C0055B1C1 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,12 +60,12 @@
 		84D4F34124883E7D0074070E /* aboutMe */ = {
 			isa = PBXGroup;
 			children = (
-				84DDDE1A24884E4A0055B1C1 /* AppDelegate.swift */,
-				84DDDE2024884E820055B1C1 /* AboutMeViewController.swift */,
-				84DDDE2124884E820055B1C1 /* LoginViewController.swift */,
-				84DDDE1C24884E820055B1C1 /* Main.storyboard */,
-				84DDDE1E24884E820055B1C1 /* User.swift */,
-				84DDDE1F24884E820055B1C1 /* WelcomeViewController.swift */,
+				84DDDE2A2488504C0055B1C1 /* AppDelegate.swift */,
+				84DDDE292488504C0055B1C1 /* LoginViewController.swift */,
+				84DDDE2D2488504C0055B1C1 /* WelcomeViewController.swift */,
+				84DDDE2B2488504C0055B1C1 /* AboutMeViewController.swift */,
+				84DDDE2C2488504C0055B1C1 /* User.swift */,
+				84DDDE2E2488504C0055B1C1 /* Main.storyboard */,
 				84D4F34B24883E800074070E /* Assets.xcassets */,
 				84D4F34D24883E800074070E /* LaunchScreen.storyboard */,
 				84D4F35024883E800074070E /* Info.plist */,
@@ -132,7 +132,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84DDDE2224884E820055B1C1 /* Main.storyboard in Resources */,
+				84DDDE342488504C0055B1C1 /* Main.storyboard in Resources */,
 				84D4F34F24883E800074070E /* LaunchScreen.storyboard in Resources */,
 				84D4F34C24883E800074070E /* Assets.xcassets in Resources */,
 			);
@@ -145,11 +145,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84DDDE2424884E820055B1C1 /* WelcomeViewController.swift in Sources */,
-				84DDDE2324884E820055B1C1 /* User.swift in Sources */,
-				84DDDE2524884E820055B1C1 /* AboutMeViewController.swift in Sources */,
-				84DDDE2624884E820055B1C1 /* LoginViewController.swift in Sources */,
-				84DDDE1B24884E4A0055B1C1 /* AppDelegate.swift in Sources */,
+				84DDDE322488504C0055B1C1 /* User.swift in Sources */,
+				84DDDE332488504C0055B1C1 /* WelcomeViewController.swift in Sources */,
+				84DDDE302488504C0055B1C1 /* AppDelegate.swift in Sources */,
+				84DDDE312488504C0055B1C1 /* AboutMeViewController.swift in Sources */,
+				84DDDE2F2488504C0055B1C1 /* LoginViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -162,14 +162,6 @@
 				84D4F34E24883E800074070E /* Base */,
 			);
 			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		84DDDE1C24884E820055B1C1 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				84DDDE1D24884E820055B1C1 /* Base */,
-			);
-			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
