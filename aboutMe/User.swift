@@ -2,9 +2,10 @@
 //  User.swift
 //  aboutMe
 //
-//  Created by ADMIN on 03.06.2020.
+//  Created by ADMIN on 04.06.2020.
 //  Copyright © 2020 Arkadij Ryabov. All rights reserved.
 //
+
 import Foundation
 
 struct User {
